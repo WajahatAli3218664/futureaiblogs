@@ -52,7 +52,7 @@ const Footer = () => {
         <div className="border-b-2 bg-neutral-50 mt-10 font-extralight mr-10 ml-10"></div>
 
         <div className='flex flex-col lg:flex-row justify-between items-center py-4 px-4'>
-            <p className='text-center lg:text-left ml-8 mr-10'>Copyright 2024 FarahBlogsAI LTD</p>
+            <p className='text-center lg:text-left ml-8 mr-10'>© 2024 FarahBlogsAI LTD. All rights reserved</p>
             
             {/* Social Icons */}
             <div className='flex gap-6 mt-4 lg:mt-0 mr-8 ml-8 hover:scale-105 duration-300'>
