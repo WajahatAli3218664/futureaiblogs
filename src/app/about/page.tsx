@@ -8,13 +8,13 @@ const About = () => {
         {/* Profile Section */}
         <div className='flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:space-x-6'>
           <img 
-            src="/images/my-pic.jpg" 
+            src="/images/fari.webp" 
             alt="Author Images"
             className='w-32 h-32 rounded-full object-cover border-4 border-[#2A254B] transform transition duration-500 hover:scale-110' 
           />
           <div>
             <h3 className='text-3xl font-extrabold text-[#2A254B]'>
-              Foqia Siddiqui
+              Farah
             </h3>
             <p className='text-lg text-slate-500 mt-2'>
               Blogger | Content Writer
@@ -24,13 +24,13 @@ const About = () => {
 
         {/* Bio Section */}
         <p className='mt-6 text-xl text-gray-800 leading-relaxed'>
-          A curious explorer and avid writer, this blogger is dedicated to capturing the essence of unique destinations and sharing stories that inspire others to discover the wonders of the world!
+        A passionate traveler and enthusiastic storyteller, this blogger is committed to uncovering hidden gems and sharing captivating tales that inspire fellow explorers to embark on their own journeys and experience the beauty of the world
         </p>
 
         {/* Social Links Section */}
         <div className='mt-8 flex justify-center space-x-6'>
           <a 
-            href="https://www.linkedin.com/in/foqia-siddiqui-3357152b5/" 
+            href="https://www.linkedin.com/in" 
             target='_blank'
             className='p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110'
             aria-label='LinkedIn'
@@ -38,7 +38,7 @@ const About = () => {
             <FaLinkedin size={18} />
           </a>
           <a 
-            href="https://www.facebook.com/profile.php?id=61562307717172" 
+            href="https://www.facebook.com" 
             target='_blank'
             className='p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110'
             aria-label='Facebook'
@@ -46,7 +46,7 @@ const About = () => {
             <FaFacebook size={18} />
           </a>
           <a 
-            href="https://www.instagram.com/foqia.sd78/" 
+            href="https://www.instagram.com" 
             target='_blank'
             className='p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110'
             aria-label='Instagram'
@@ -54,7 +54,7 @@ const About = () => {
             <FaInstagram size={18} />
           </a>
           <a 
-            href="https://github.com/Foqia-Sd" 
+            href="https://github.com" 
             target='_blank'
             className='p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110'
             aria-label='GitHub'
