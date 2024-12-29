@@ -76,7 +76,7 @@ const Contact = () => {
               <FaLinkedin size={24} />
             </a>
             <a
-              href="https://www.facebook.com/profile.php?id=61562307717172"
+              href="https://www.facebook.com"
               target="_blank"
               className="p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110"
               aria-label="Facebook"
@@ -84,7 +84,7 @@ const Contact = () => {
               <FaFacebook size={24} />
             </a>
             <a
-              href="https://www.instagram.com/foqia.sd78/"
+              href="https://www.instagram.com"
               target="_blank"
               className="p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110"
               aria-label="Instagram"
@@ -92,7 +92,7 @@ const Contact = () => {
               <FaInstagram size={24} />
             </a>
             <a
-              href="https://github.com/Foqia-Sd"
+              href="https://github.com"
               target="_blank"
               className="p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110"
               aria-label="GitHub"
