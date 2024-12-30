@@ -45,7 +45,7 @@ const Footer = () => {
             {/* Section 4 - Email */}
             <div>
                 <h3 className='font-bold py-3 text-amber-300'>Join us on Email</h3>
-                <a href="mailto:info@blogsphere.com" className="underline">azamb7817@gmail.com</a>
+                <a href="mailto:info@blogsphere.com" className="underline">farahtaurus259@gmail.com </a>
             </div>
         </div>
 
