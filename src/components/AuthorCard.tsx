@@ -28,7 +28,7 @@ const AuthorCard = () => {
 
         <div className='mt-4 flex space-x-3'>
             <a 
-            href="https://www.linkedin.com" target='blank'
+            href="https://www.linkedin.com/in/farah-asghar-9992442ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='blank'
             className='px-4 py-2 text-white bg-[#2A254B] rounded-full hover:bg-amber-600 transition duration-300'>
 
              <FaLinkedin size={18}/>
@@ -46,7 +46,7 @@ const AuthorCard = () => {
              <FaInstagram size={18}/>
             </a>
             <a 
-            href="https://github.com/Foqia-Sd" target='blank'
+            href="https://github.com" target='blank'
             className='px-4 py-2 text-white bg-[#2A254B] rounded-full hover:bg-amber-600 transition duration-300'>
 
              <FaGithub size={18}/>
