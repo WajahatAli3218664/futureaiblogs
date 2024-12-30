@@ -30,7 +30,7 @@ const About = () => {
         {/* Social Links Section */}
         <div className='mt-8 flex justify-center space-x-6'>
           <a 
-            href="https://www.linkedin.com/in" 
+            href="https://www.linkedin.com/in/farah-asghar-9992442ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
             target='_blank'
             className='p-4 bg-[#2A254B] text-white rounded-full hover:bg-amber-600 transition duration-300 transform hover:scale-110'
             aria-label='LinkedIn'
