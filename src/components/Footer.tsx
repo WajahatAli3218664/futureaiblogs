@@ -56,7 +56,7 @@ const Footer = () => {
             
             {/* Social Icons */}
             <div className='flex gap-6 mt-4 lg:mt-0 mr-8 ml-8 hover:scale-105 duration-300'>
-                <a href='https://www.linkedin.com/in/foqia-siddiqui-3357152b5/' target='blank'>
+                <a href='https://www.linkedin.com/in/farah-asghar-9992442ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target='blank'>
                     <FaLinkedin size={25} />
                 </a>
                 <FaFacebookSquare size={18}/>
